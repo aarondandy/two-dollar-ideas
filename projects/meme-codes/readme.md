@@ -21,14 +21,14 @@ Codes like `200`, `503`, `PC LOAD LETTER`, and `IRQL_NOT_LESS_OR_EQUAL` have a m
 - Consider using an alternative to images such as ANSI art.
 - Do something other than HTTP response codes such as [errno](http://man7.org/linux/man-pages/man3/errno.3.html) or printer errors.
 
-## What You May Learn
+## Potential Learning
 
 The first thing you should learn from this project is an understanding of the topic you are documenting. For example, if you document [HTTP response codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status), you will have to learn what some of the response codes mean.
 
 Additionally you can expect to learn more about and get experience with the following:
 
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), and maybe even some [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [Static Site Generators](https://www.staticgen.com/) - Practice [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself). the most popular options may not be the best fit.
+- [Static Site Generators](https://www.staticgen.com/) - Practice [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself). Note that the most popular tools may not be the best fit for this project.
 - Web Hosting - Hosting the content you create online so you can share it with others.
 - DNS - If you desire a domain name and don't mind spending a bit of money.
 - Licensing and [Copyright](https://www.teachingcopyright.org/) - Be respectful and follow the law/rules when using somebody's content.
